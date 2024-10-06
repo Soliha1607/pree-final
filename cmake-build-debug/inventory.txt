@@ -1,0 +1,10 @@
+Nomi: Olma 
+Miqdori: 10 
+Narxi: 10.00 
+Umumiy qiymati: 100.00
+
+Nomi: nok 
+Miqdori: 3 
+Narxi: 5.50 
+Umumiy qiymati: 16.50
+

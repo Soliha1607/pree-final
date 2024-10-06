@@ -1,0 +1,6 @@
+ismi s 
+yoshi 16 
+bahosi 5 
+ismi j 
+yoshi 21 
+bahosi 5 

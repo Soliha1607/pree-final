@@ -1,0 +1,4 @@
+Xodim ismi: s
+Yangilangan maosh: 100000000.00
+Ish soatlari: 5
+

@@ -1,0 +1,8 @@
+Ism: s
+Yosh: 18
+Reyting: 4
+
+Ism: j
+Yosh: 21
+Reyting: 5
+
